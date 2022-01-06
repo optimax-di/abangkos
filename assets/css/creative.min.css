@@ -1,0 +1,129 @@
+/*!
+ * Start Bootstrap - Creative v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/creative)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+ */
+
+
+ a{
+ 	color:#f0f0f0;
+ 	-webkit-transition:all .2s;
+ 	-moz-transition:all .2s;
+ 	transition:all .2s}
+ 	
+ a:hover{
+ 	color:#f0f0f0}
+
+ h1{
+ 	color:#f05f40
+ 	}
+
+ h2,h3,h4,h5,h6{
+ 	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
+
+ .bg-primary{
+ 		background-color:#212529 !important}
+
+ .kaki{
+ 		background-color:#736F6E}
+ .text-faded{
+ 		color:rgba(255,255,255,.7)}
+
+ section{
+ 	padding: 4rem 0}
+
+ .section-heading{
+ 		margin-top:0}
+ 		::-moz-selection{
+ 			color:#fff;
+ 			background:#212529;
+ 			text-shadow:none}
+ 		::selection{
+ 			color:#fff;
+ 			background:#212529;
+ 			text-shadow:none}
+ 		img::selection{
+ 			color:#fff;
+ 			background:0 0}
+ 		img::-moz-selection{
+ 			color:#fff;
+ 			background:0 0}
+
+ 		#mainNav{
+ 			border-bottom:2px solid rgba(33,37,41,.1);
+ 			background-color:#fff;
+ 			font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
+ 			-webkit-transition:all .2s;
+ 			-moz-transition:all .2s;
+ 			transition:all .2s}
+ 		#mainNav .navbar-brand{
+ 			font-weight:700;
+ 			text-transform:uppercase;
+ 			color:#f05f40;
+ 			font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
+ 		#mainNav .navbar-brand:focus,
+ 		#mainNav .navbar-brand:hover{color:#f05f40}
+ 		#mainNav .navbar-nav>li.nav-item>a.nav-link,
+ 		#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{font-size:.9rem;font-weight:700;text-transform:capitalize;color:#212529}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:hover{color:#f05f40}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link.active,
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{color:#f05f40!important;background-color:transparent}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover,
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover{background-color:transparent}@media (min-width:992px){
+ 			#mainNav{border-color:transparent;background-color:transparent}
+ 			#mainNav .navbar-brand{color:rgba(255,255,255,.7)}
+ 			#mainNav .navbar-brand:focus,
+ 			#mainNav .navbar-brand:hover{color:#fff}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link{padding:.5rem 1rem}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link,
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{color:rgba(255,255,255,.7)}
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,
+ 			#mainNav .navbar-nav>li.nav-item>a.nav-link:hover{color:#fff}
+ 			#mainNav.navbar-shrink{border-bottom:1px solid rgba(33,37,41,.1);background-color:#fff}
+ 			#mainNav.navbar-shrink .navbar-brand{color:#f05f40}
+ 			#mainNav.navbar-shrink .navbar-brand:focus,
+ 			#mainNav.navbar-shrink .navbar-brand:hover{color:#f05f40}
+ 			#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link,
+ 			#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus{color:#212529}
+ 			#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
+ 			#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover{color:#f05f40}}
+
+
+ 		header.masthead h1{
+ 			font-size:2rem}
+
+ 		header.masthead p{
+ 			font-weight:400}
+
+ 		@media (min-width:768px){
+
+ 		header.masthead p{
+ 			font-size:1.50rem}}
+
+ 		@media (min-width:992px){
+
+ 		header.masthead{
+ 			height:100vh;
+ 			min-height:650px;
+ 			padding-top:0;
+ 			padding-bottom:0}
+ 		header.masthead h1{
+ 			font-size:3rem}}
+ 		@media (min-width:1200px){
+ 		header.masthead h1{
+ 			font-size:4rem}}
+
+ 		.service-box{max-width:400px}
+
+ 		.btn{
+ 			font-weight:500;
+ 			text-transform:capitalize;
+ 			border:none;
+ 			border-radius:300px;
+ 			font-family:'Open Sans','Helvetica Neue', Arial, sans-serif}
+
+.card-footer {
+background-color:#808080;
+color: #ffffff
+}

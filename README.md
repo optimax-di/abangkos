@@ -1,1 +1,0 @@
-# optimax-di.github.io
